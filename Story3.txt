@@ -3,13 +3,11 @@
     "name": "Muthu",
     "address": "Bangalore",
     "company": "Unisys"
-  },
-  {
+  },{
     "name": "Aashish",
     "address": "Bangalore",
     "company": "Unisys"
-  },
-  {
+  },{
     "name": "Avinash",
     "address": "Mumbai",
     "company": "Unisys"
